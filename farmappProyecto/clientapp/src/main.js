@@ -12,7 +12,7 @@ Vue.use(VueMdijs)
 
 
 Vue.config.productionTip = false
-axios.defaults.baseURL='http://localhost:2085'
+axios.defaults.baseURL='/'
 
 new Vue({
   router,
