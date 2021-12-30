@@ -18,6 +18,8 @@ namespace Entidades
 
         public int Cantidad { get; set; }
 
+
+
         public float Precio { get; set; }
 
         public VentaEntity Venta { get; set; }

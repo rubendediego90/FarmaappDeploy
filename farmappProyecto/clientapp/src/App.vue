@@ -50,6 +50,20 @@
         ],
     }),
 
+   /* created () {
+
+      var iniciado = 0;
+      
+      if (typeof a == 'undefined') {
+        var a = 1;
+        this.$router.push({ name: 'Venta' })
+        
+        iniciado++
+        alert(iniciado)
+      }
+      
+    },*/
+
   };
 </script>
 
